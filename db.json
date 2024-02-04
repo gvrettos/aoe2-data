@@ -1,318 +1,254 @@
 {
 	"civilizations": [
 		{
+			"id": 1,
 			"name": "Britons",
 			"expansion": "Age of Kings",
 			"army_type": "Foot Archer",
 			"unique_units": [
 				"Longbowman"
-			],
-			"unique_techs": [
-				"Yeomen"
 			]
 		},
 		{
+			"id": 2,
 			"name": "Byzantines",
 			"expansion": "Age of Kings",
 			"army_type": "Defensive",
 			"unique_units": [
 				"Cataphract"
-			],
-			"unique_techs": [
-				"Logistica"
 			]
 		},
 		{
+			"id": 3,
 			"name": "Celts",
 			"expansion": "Age of Kings",
 			"army_type": "Infantry",
 			"unique_units": [
 				"Woad Raider"
-			],
-			"unique_techs": [
-				"Furor Celtica"
 			]
 		},
 		{
+			"id": 4,
 			"name": "Chinese",
 			"expansion": "Age of Kings",
 			"army_type": "Archer",
 			"unique_units": [
 				"Chu Ko Nu"
-			],
-			"unique_techs": [
-				"Rocketry"
 			]
 		},
 		{
+			"id": 5,
 			"name": "Franks",
 			"expansion": "Age of Kings",
 			"army_type": "Cavalry",
 			"unique_units": [
 				"Throwing Axeman"
-			],
-			"unique_techs": [
-				"Bearded Axe"
 			]
 		},
 		{
+			"id": 6,
 			"name": "Goths",
 			"expansion": "Age of Kings",
 			"army_type": "Infantry",
 			"unique_units": [
 				"Huskarl"
-			],
-			"unique_techs": [
-				"Anarchy",
-				"Perfusion"
 			]
 		},
 		{
+			"id": 7,
 			"name": "Japanese",
 			"expansion": "Age of Kings",
 			"army_type": "Infantry",
 			"unique_units": [
 				"Samurai"
-			],
-			"unique_techs": [
-				"Kataparuto"
 			]
 		},
 		{
+			"id": 8,
 			"name": "Mongols",
 			"expansion": "Age of Kings",
 			"army_type": "Cavalry Archer",
 			"unique_units": [
 				"Mangudai"
-			],
-			"unique_techs": [
-				"Drill"
 			]
 		},
 		{
+			"id": 9,
 			"name": "Persians",
 			"expansion": "Age of Kings",
 			"army_type": "Cavalry",
 			"unique_units": [
 				"War Elephant"
-			],
-			"unique_techs": [
-				"Mahouts"
 			]
 		},
 		{
+			"id": 10,
 			"name": "Saracens",
 			"expansion": "Age of Kings",
 			"army_type": "Camel and naval",
 			"unique_units": [
 				"Mameluke"
-			],
-			"unique_techs": [
-				"Zealotry"
 			]
 		},
 		{
+			"id": 11,
 			"name": "Teutons",
 			"expansion": "Age of Kings",
 			"army_type": "Infantry",
 			"unique_units": [
 				"Teutonic Knight"
-			],
-			"unique_techs": [
-				"Crenellations"
 			]
 		},
 		{
+			"id": 12,
 			"name": "Turks",
 			"expansion": "Age of Kings",
 			"army_type": "Gunpowder",
 			"unique_units": [
 				"Janissary"
-			],
-			"unique_techs": [
-				"Artillery"
 			]
 		},
 		{
+			"id": 13,
 			"name": "Vikings",
 			"expansion": "Age of Kings",
 			"army_type": "Infantry and naval",
 			"unique_units": [
 				"Berserk",
 				"Longboat"
-			],
-			"unique_techs": [
-				"Berserkergang"
 			]
 		},
 		{
+			"id": 14,
 			"name": "Aztecs",
 			"expansion": "The Conquerors",
 			"army_type": "Infantry and Monk",
 			"unique_units": [
 				"Jaguar Warrior"
-			],
-			"unique_techs": [
-				"Garland Wars"
 			]
 		},
 		{
+			"id": 15,
 			"name": "Huns",
 			"expansion": "The Conquerors",
 			"army_type": "Cavalry",
 			"unique_units": [
 				"Tarkan"
-			],
-			"unique_techs": [
-				"Atheism"
 			]
 		},
 		{
+			"id": 16,
 			"name": "Koreans",
 			"expansion": "The Conquerors",
 			"army_type": "Tower and naval",
 			"unique_units": [
 				"War Wagon",
 				"Turtle Ship"
-			],
-			"unique_techs": [
-				"Shinkichon"
 			]
 		},
 		{
+			"id": 17,
 			"name": "Mayans",
 			"expansion": "The Conquerors",
 			"army_type": "Archer",
 			"unique_units": [
 				"Plumed Archer"
-			],
-			"unique_techs": [
-				"El Dorado"
 			]
 		},
 		{
+			"id": 18,
 			"name": "Spanish",
 			"expansion": "The Conquerors",
 			"army_type": "Gunpowder and Monk",
 			"unique_units": [
 				"Conquistador",
 				"Missionary"
-			],
-			"unique_techs": [
-				"Supremacy"
 			]
 		},
 		{
+			"id": 19,
 			"name": "Incas",
 			"expansion": "Forgotten Empires",
 			"army_type": "Infantry",
 			"unique_units": [
 				"Kamayuk",
 				"Slinger"
-			],
-			"unique_techs": [
-				"Couriers",
-				"Andean Sling"
 			]
 		},
 		{
+			"id": 20,
 			"name": "Indians",
 			"expansion": "Forgotten Empires",
 			"army_type": "Gunpowder and Cavalry",
 			"unique_units": [
 				"Elephant Archer",
 				"Imperial Camel"
-			],
-			"unique_techs": [
-				"Sultans",
-				"Shatagni"
 			]
 		},
 		{
+			"id": 21,
 			"name": "Italians",
 			"expansion": "Forgotten Empires",
 			"army_type": "Archer and naval",
 			"unique_units": [
 				"Genoese Crossbowman",
 				"Condottiero"
-			],
-			"unique_techs": [
-				"Pavise",
-				"Silk Road"
 			]
 		},
 		{
+			"id": 22,
 			"name": "Magyars",
 			"expansion": "Forgotten Empires",
 			"army_type": "Calvary Infantry",
 			"unique_units": [
 				"Magyar Huszar"
-			],
-			"unique_techs": [
-				"Mercenaries",
-				"Recursive Bow"
 			]
 		},
 		{
+			"id": 23,
 			"name": "Slavs",
 			"expansion": "Forgotten Empires",
 			"army_type": "Cavalry",
 			"unique_units": [
 				"Boyars"
-			],
-			"unique_techs": [
-				"Orthodoxy",
-				"Druzhina"
 			]
 		},
 		{
+			"id": 24,
 			"name": "Berbers",
 			"expansion": "African Kingdoms",
 			"army_type": "Calvary and Naval",
 			"unique_units": [
 				"Camel Archer",
 				"Genitour"
-			],
-			"unique_techs": [
-				"Kasbah",
-				"Maghrabi Camels"
 			]
 		},
 		{
+			"id": 25,
 			"name": "Ethiopians",
 			"expansion": "African Kingdoms",
 			"army_type": "Archer",
 			"unique_units": [
 				"Shotel Warrior"
-			],
-			"unique_techs": [
-				"Royals Heirs",
-				"Torsion Engines"
 			]
 		},
 		{
+			"id": 26,
 			"name": "Malians",
 			"expansion": "African Kingdoms",
 			"army_type": "Infantry",
 			"unique_units": [
 				"Gbeto"
-			],
-			"unique_techs": [
-				"Tigui",
-				"Farimba"
 			]
 		},
 		{
+			"id": 27,
 			"name": "Portuguese",
 			"expansion": "African Kingdoms",
 			"army_type": "Naval and Gunpowder",
 			"unique_units": [
 				"Caravel",
 				"Organ Gun"
-			],
-			"unique_techs": [
-				"Carrack",
-				"Arquebus"
 			]
 		}
 	]
