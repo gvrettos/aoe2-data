@@ -314,54 +314,6 @@
 				"Carrack",
 				"Arquebus"
 			]
-		},
-		{
-			"name": "Burmese",
-			"expansion": "Rise of Rajas",
-			"army_type": "Monk and Elephant",
-			"unique_units": [
-				"Arambai"
-			],
-			"unique_techs": [
-				"Howdah",
-				"Manipur Cavalry"
-			]
-		},
-		{
-			"name": "Khmer",
-			"expansion": "Rise of Rajas",
-			"army_type": "Siege and Elephant Civilzation",
-			"unique_units": [
-				"Ballista Elephant"
-			],
-			"unique_techs": [
-				"Tusk Swords",
-				"Double Crossbow"
-			]
-		},
-		{
-			"name": "Malay",
-			"expansion": "Rise of Rajas",
-			"army_type": "Naval",
-			"unique_units": [
-				"Karambit Warrior"
-			],
-			"unique_techs": [
-				"Thalassocracy",
-				"Forced Levy"
-			]
-		},
-		{
-			"name": "Vietnamese",
-			"expansion": "Rise of Rajas",
-			"army_type": "Archer",
-			"unique_units": [
-				"Rattan Archer"
-			],
-			"unique_techs": [
-				"Chatras",
-				"Paper Money"
-			]
 		}
 	]
 }
